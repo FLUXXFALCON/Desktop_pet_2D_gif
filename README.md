@@ -1,5 +1,3 @@
-Here is a sample README for your project:
-
 ---
 
 # DesktopPet - A Desktop Pet Application

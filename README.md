@@ -45,4 +45,3 @@ python desktop_pet.py
    - Toggle the transparency of the pet's background using the checkbox.
 
 
-Feel free to modify the sections based on your actual project details! Let me know if you need any changes.
